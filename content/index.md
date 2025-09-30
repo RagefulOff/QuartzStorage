@@ -1,1 +1,3 @@
-![screen](CleanShot-2025-09-29-at-15.10.57.png)
+# Проект GDW_Doc_Worker
+
+Теперь все отчёты будут храниться здесь, по пути `Projects` -> `GDW_Doc_Worker`
