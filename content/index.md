@@ -1,1 +1,1 @@
-![screen](CleanShot 2025-09-29 at 15.10.57@2x.png)
+![screen](CleanShot-2025-09-29-at-15.10.57.png)
